@@ -336,6 +336,48 @@ ORDER BY d.gender, pd.department_name;
 
 <img width="263" height="102" alt="Screenshot 2025-09-18 213831" src="https://github.com/user-attachments/assets/13cd184a-fdbd-4e5f-acb8-8c69f4326887" />
 
+This query shows how many male vs. female employees work in each department.
+For example:
+
+Parks & Recreation → 3 Male, 3 Female
+
+---
+
+## 📊 Key Insights
+
+- Several employees earn above their department’s average salary, showing variation within teams.
+- A gender pay gap exists only in the Parks & Recreation department, where males earn about $1,666.67 more than females on average.
+- The highest-paid employees stand out across departments, highlighting income concentration in certain roles.
+- Average salaries by department vary significantly, with some consistently paying higher than others.
+- Gender distribution is uneven — many departments employ only one gender, limiting fair comparisons.
+- The workforce shows diverse age ranges, with some departments skewing younger while others are older.
+- Salary distribution across the company highlights disparities, with certain employees earning far above the median.
+- Department size also varies, with Parks & Recreation employing the largest mix of staff and roles.
+- 
+These insights reveal patterns of pay imbalance, uneven gender representation, and departmental salary differences — even within a fictional workplace.
+
+---
+
+## 🛠️ Skills Used
+
+- SQL (JOIN, GROUP BY, ORDER BY, LIMIT, ROUND)
+- Aggregation (SUM, COUNT)
+- Data exploration & analysis
+
+---
+
+## 📌 Tools
+
+- **SQL** (MySQL)
+- **DB Tool**: MySQL Workbench
+
+---
+
+## 📚 Source
+
+- [AlexTheAnalyst]([https://www.mavenanalytics.io/data-playground](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/Beginner%20-%20Parks_and_Rec_Create_db.sql))
+
+---
 
 
 
